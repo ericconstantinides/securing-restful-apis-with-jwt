@@ -1,2 +1,4 @@
-var mongoose = require('mongoose');
-mongoose.connect('mongodb://127.0.0.1:27017/securing-rest-apis-with-jwt', { useMongoClient: true });
+var mongoose = require('mongoose')
+mongoose.connect('mongodb://colorscolors:TqywwK2RCUL22jbLTeyzkGgG9BmkRUqs@ds237855.mlab.com:37855/auth-testing', {
+  useMongoClient: true
+})
